@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name goes here <yourname@domain.tld>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Settings reset."
+msgstr ""
+
+msgid "Cache flushed."
+msgstr ""
+
+msgid "Database table dropped."
+msgstr "Datenbank-Tabelle gelöscht."
+
+msgid "About this plugin"
+msgstr ""
+
+msgid "You are using version"
+msgstr ""
+
+msgid "This plugin automagically adds a Twitter profile link to your commenters.<br />Please have a <a href='http://immersion.io/publikationen/code/wordpress/automagic-twitter-profile-uri/' title='Automagic Twitter Profile URI › Immersion I/O'>look at the author's plugin page</a> for more information, comments and feedback."
+msgstr ""
+
+msgid "Your current plugin output"
+msgstr ""
+
+msgid "<strong>Attention</strong>: you have the automagic integration disabled."
+msgstr ""
+
+msgid "When calling <code>atpu()</code> or <code>get_atpu('custom_string)</code>, your <em>custom</em> output will look like this:"
+msgstr ""
+
+msgid "When calling <code>atpu()</code>, your output will look like this:"
+msgstr ""
+
+msgid "Currently, your <em>custom</em> output (the header of each comment) will look something like this:"
+msgstr ""
+
+msgid "Currently, your output (the header of each comment) will look something like this:"
+msgstr ""
+
+msgid "said"
+msgstr ""
+
+msgid "You can modify the output in the settings below."
+msgstr ""
+
+msgid "Basic settings"
+msgstr ""
+
+msgid "Here you can setup the basic plugin output settings."
+msgstr ""
+
+msgid "Enable automagic integration"
+msgstr ""
+
+msgid "Show Twitter icon"
+msgstr ""
+
+msgid "Show \"%s\" or \"@username\""
+msgstr ""
+
+msgid "both"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr ""
+
+msgid "Time for some advanced settings!<br />Here you can fine tune the appearance of the link and other settings."
+msgstr ""
+
+msgid "Link appearance"
+msgstr ""
+
+msgid "Wrap in brackets"
+msgstr ""
+
+msgid "Wrap in a CSS class"
+msgstr ""
+
+msgid "Append a line break"
+msgstr ""
+
+msgid "before"
+msgstr ""
+
+msgid "after"
+msgstr ""
+
+msgid "before and after"
+msgstr ""
+
+msgid "Comment form options"
+msgstr ""
+
+msgid "Show a notice about the magic under the comment form"
+msgstr ""
+
+msgid "to all"
+msgstr ""
+
+msgid "to visitors"
+msgstr ""
+
+msgid "Let the commenter decide to publicize his/her username"
+msgstr ""
+
+msgid "all commenters"
+msgstr ""
+
+msgid "just visitors"
+msgstr ""
+
+msgid "If the commenter is allowed to decide, the default setting is"
+msgstr ""
+
+msgid "magic enabled"
+msgstr ""
+
+msgid "magic disabled"
+msgstr ""
+
+msgid "Apply a CSS \"clear: both\" to the notice/option about the magic"
+msgstr ""
+
+msgid "Secure communication options"
+msgstr ""
+
+msgid "Use Twitter's <a href=\"http://en.wikipedia.org/wiki/Transport_Layer_Security\">SSL</a> capabilities"
+msgstr ""
+
+msgid "for both querying from and linking to Twitter"
+msgstr ""
+
+msgid "only for links to Twitter"
+msgstr ""
+
+msgid "only for querying from Twitter"
+msgstr ""
+
+msgid "Customize strings"
+msgstr ""
+
+msgid "Here you can fully customize the output of the plugin."
+msgstr ""
+
+msgid "Text strings"
+msgstr ""
+
+msgid "CSS class name"
+msgstr ""
+
+msgid "Twitter icon URI"
+msgstr ""
+
+msgid "Text to prepend (like a bracket)"
+msgstr ""
+
+msgid "Text to append (like a bracket)"
+msgstr ""
+
+msgid "Line break HTML code"
+msgstr ""
+
+msgid "Text for separator"
+msgstr ""
+
+msgid "Comment form texts"
+msgstr ""
+
+msgid "The commenter notice text"
+msgstr ""
+
+msgid "The commenter publicize option text"
+msgstr ""
+
+msgid "Custom link string"
+msgstr ""
+
+msgid "This makes especially sense if you are using the <code>atpu()</code> or <code>get_atpu('custom_string')</code> function in your template instead of the automagic integration.<br />Please have a <a href='http://immersion.io/publikationen/code/wordpress/automagic-twitter-profile-uri/' title='Automagic Twitter Profile URI › Immersion I/O'>look at the documentation</a> for more information. Remember, if you enable the custom output string, the basic and advanced settings will be ignored!&sup1;<br /><small>&sup1; (Except for automagic integration setting and comment form options.)</small>"
+msgstr ""
+
+msgid "Your custom output string&sup2;"
+msgstr ""
+
+msgid "Custom output string enabled"
+msgstr ""
+
+msgid "&sup2; You can use the following custom tags (move the mouse over them to get a brief description):"
+msgstr ""
+
+msgid "Returns the commenter name, like: 'Benjamin Wittorf'"
+msgstr ""
+
+msgid "Returns the Twitter username, like: 'bwittorf'"
+msgstr ""
+
+msgid "Returns the line break: '%s'"
+msgstr ""
+
+msgid "Returns the separator: '%s'"
+msgstr ""
+
+msgid "Returns the prepending text: '%s'"
+msgstr ""
+
+msgid "Returns the appending text: '%s'"
+msgstr ""
+
+msgid "Returns the Twitter icon: '<img src='%s' title='%s' />'"
+msgstr ""
+
+msgid "Returns Twitter's base URI: '%s'"
+msgstr ""
+
+msgid "Returns the title of Twitter: '%s'"
+msgstr ""
+
+msgid "Returns the CSS class name: '%s'"
+msgstr ""
+
+msgid "In case something went wrong, I suggest panic or:"
+msgstr ""
+
+msgid "If you have a <img src="%s" alt="Twitter" /> <a href=\"https://twitter.com\" title=\"Twitter\">Twitter</a> account using the same email address, a link to your Twitter profile will be <a href=\"http://immersion.io/publikationen/code/wordpress/automagic-twitter-profile-uri/\" title=\"Automagic Twitter Profile URI › Immersion I/O\">automagically</a> added to your comments."
+msgstr ""
+
+msgid "<a href=\"http://immersion.io/publikationen/code/wordpress/automagic-twitter-profile-uri/\" title=\"Automagic Twitter Profile URI › Immersion I/O\">Automagically</a> add a link to my <img src="%s" alt="Twitter" /> <a href=\"https://twitter.com\" title=\"Twitter\">Twitter</a> profile to my comments"
+msgstr ""
+
+msgid "Core settings"
+msgstr ""
+
+msgid "Here you can find the plugin core settings. Change with caution."
+msgstr ""
+
+msgid "Days to cache Twitter queries"
+msgstr ""
+
+msgid "Plugin cache name"
+msgstr ""
+
+msgid "Name of service"
+msgstr ""
+
+msgid "Twitter API URI"
+msgstr ""
+
+msgid "Twitter base URI"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "The panic box"
+msgstr ""
+
+msgid "Reset Options"
+msgstr ""
+
+msgid "Flush Cache"
+msgstr ""
+
+msgid "Drop Database Table"
+msgstr ""
+
+msgid "Follow"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "<em>%s</em> commenters have been \"enchanted\" so far&sup1;"
+msgstr ""
+
+msgid "<em>One</em> commenter has been \"enchanted\" so far&sup1;"
+msgstr ""
+
+msgid "<em>No</em> commenter has been \"enchanted\" so far&sup1;"
+msgstr ""
+
+msgid "Of your <strong>%s</strong> enchanted commenters"
+msgstr ""
+
+msgid "This <strong>one</strong> enchanted commenter"
+msgstr ""
+
+msgid "has a Twitter username."
+msgstr ""
+
+msgid "doesn't seem to have a Twitter username."
+msgstr ""
+
+msgid "<strong>all</strong> have a Twitter account."
+msgstr ""
+
+msgid "at least <strong>%s</strong> have a Twitter account.&sup2;"
+msgstr ""
+
+msgid "at least <strong>one</strong> has a Twitter account.&sup2;"
+msgstr ""
+
+msgid "<strong>none</strong> has a Twitter account.&sup2;"
+msgstr ""
+
+msgid "That means <strong>%s percent</strong> of these commenters are likely to be active Twitter users."
+msgstr ""
+
+msgid "You <strong>really</strong> should engage your commenters to use Twitter so you can expand your network."
+msgstr ""
+
+msgid "Not so many! You should engage more of your commenters to use Twitter and to network with you."
+msgstr ""
+
+msgid "What a number! You are networking with them, aren't you?"
+msgstr ""
+
+msgid "Whoah, what a whopping number! You can potentially reach lots of people through your commenters."
+msgstr ""
+
+msgid "&sup1; Number of commenters who have left an email address and whose comments have been displayed to visitors since activating this plugin."
+msgstr ""
+
+msgid "&sup2; The email address used to comment here may not be the same as for their Twitter account"
+msgstr ""
+
+msgid "or they do not want their Twitter username to be displayed"
+msgstr ""
+
